@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+<img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&logoColor=Pink"/>
+
+
 <!--
 **dayaelee/dayaelee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
