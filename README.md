@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-<img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&logoColor=pink"/>
-<a href="mailto:dayae.dev@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=pink&link=mailto:dayae.dev@gmail.com"/></a> 
+<a href="https://dayae-dev.tistory.com/"><img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&logoColor=pink&link=https://dayae-dev.tistory.com/></a>
+<a href="mailto:dayae.dev@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=pink&link=mailto:dayae.dev@gmail.com/></a> 
 
 
 <!--
