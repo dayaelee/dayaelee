@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<a href="https://dayae-dev.tistory.com/"><img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&logoColor=pink&link=https://dayae-dev.tistory.com"/></a> <a href="mailto:dayae.dev@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=pink&link=mailto:dayae.dev@gmail.com"/></a> <a href="https://www.linkedin.com/in/dayae-lee-963775197"><img src="https://img.shields.io/badge/linkedin-0A66C2?style=flat-square&logo=linkedin&logoColor=pink&link=https://www.linkedin.com/in/dayae-lee-963775197"/></a> 
+<a href="https://dayae-dev.tistory.com/"><img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&logoColor=white&link=https://dayae-dev.tistory.com"/></a> <a href="mailto:dayae.dev@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dayae.dev@gmail.com"/></a> <a href="https://www.linkedin.com/in/dayae-lee-963775197"><img src="https://img.shields.io/badge/linkedin-0A66C2?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/dayae-lee-963775197"/></a> 
 
 
 <!--
