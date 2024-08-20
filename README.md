@@ -16,3 +16,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<div align="center">
+  
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dlektkfkd)](https://solved.ac/dlektkfkd/)<img src="http://mazandi.herokuapp.com/api?handle=dlektkfkd&theme=dark"/>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dlektkfkd&&hide_progress=true)
+
+<!--![ GitHub stats](https://github-readme-stats.vercel.app/api?username=Goldchae&show_icons=true&theme=radical)-->
+</div>
