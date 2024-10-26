@@ -2,9 +2,6 @@
 
 <h1 align="center"> Hi there 👋 <img alt="" title="Views" align="right" src="https://komarev.com/ghpvc/?username=dayaelee&label=views&style=flat&color=ff69b4"></h1>
 
-    
-
-
 
 <!--
 **dayaelee/dayaelee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -29,3 +26,6 @@ Here are some ideas to get you started:
 
 
 </div>
+
+<div align="center">
+  
