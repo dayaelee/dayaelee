@@ -2,6 +2,15 @@
 
 <h1 align="center"> Hi there 👋 <img alt="" title="Views" align="right" src="https://komarev.com/ghpvc/?username=dayaelee&label=&style=flat-square&color=ff69b4" /></h1>
 
+<a href="https://github.com/dayaelee/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=dayaelee&style=for-the-badge">
+</a>
+
+[Ÿ HŸPE]: https://yhype.me
+[GitHub Profile Views Counter]: https://github.com/dayaelee/github-profile-views-counter
+
+![](https://hit.yhype.me/github/profile?user_id=1849174)
+
 <!--
 **dayaelee/dayaelee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
