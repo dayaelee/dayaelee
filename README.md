@@ -4,7 +4,7 @@
 <a href="https://github.com/devxb/gitanimals">
 <img
   src="https://render.gitanimals.org/farms/dayaelee"
-  width="1000"
+  width="1400"
   height="200"
 />
 </a>
