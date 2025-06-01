@@ -39,6 +39,8 @@ Here are some ideas to get you started:
 <div align="center">
 
 ![Javascript](https://img.shields.io/badge/Javascript-black?style=flat-square&logo=javascript)
+![Java](https://img.shields.io/badge/Node-black?style=flat-square&logo=java)
+![Spring](https://img.shields.io/badge/Node-black?style=flat-square&logo=spring)
 ![Node](https://img.shields.io/badge/Node-black?style=flat-square&logo=node.js)
 ![React](https://img.shields.io/badge/React-black?style=flat-square&logo=react)
 ![Python](https://img.shields.io/badge/Python-black?style=flat-square&logo=python)
