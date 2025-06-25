@@ -38,12 +38,13 @@ Here are some ideas to get you started:
 
 <div align="center">
 
-![Javascript](https://img.shields.io/badge/Javascript-black?style=flat-square&logo=javascript)
+
 ![Java](https://img.shields.io/badge/Java-black?style=flat-square&logo=java)
 ![Spring](https://img.shields.io/badge/Spring-black?style=flat-square&logo=spring)
 ![Node](https://img.shields.io/badge/Node-black?style=flat-square&logo=node.js)
-![React](https://img.shields.io/badge/React-black?style=flat-square&logo=react)
 ![Python](https://img.shields.io/badge/Python-black?style=flat-square&logo=python)
+![React](https://img.shields.io/badge/React-black?style=flat-square&logo=react)
+![Javascript](https://img.shields.io/badge/Javascript-black?style=flat-square&logo=javascript)
 ![HTML5](https://img.shields.io/badge/HTML5-black?style=flat-square&logo=html5)
 ![CSS3](https://img.shields.io/badge/CSS3-black?style=flat-square&logo=css3&logoColor=1572B6)
 
