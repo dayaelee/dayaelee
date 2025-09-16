@@ -4,6 +4,8 @@
 
 <h1 align="center">  <img alt="" title="Views" align="right" src="https://komarev.com/ghpvc/?username=dayaelee&label=views&style=flat&color=ff69b4"></h1>
 
+</br>
+</br>
 
 <h3 align="center">🪄 Back Teck Stack 🪄</h3>
 <div align="center">
@@ -53,6 +55,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<h3 align="center">🪄 Backjoon Online Judge 🪄</h3>
 
 
 <div align="center">
@@ -60,6 +63,8 @@ Here are some ideas to get you started:
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dlektkfkd)](https://solved.ac/dlektkfkd/)<img src="http://mazandi.herokuapp.com/api?handle=dlektkfkd&theme=dark"/>
 
 </div>
+
+
 
 <div align="center">
   
