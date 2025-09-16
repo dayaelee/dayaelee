@@ -5,7 +5,7 @@
 </br>
 </br>
 
-<h2 align="center">🌿 Back Teck Stack 🌿</h2>
+<h2 align="center"> 🌿 Back Teck Stack 🌿</h2>
 
 
 ![Java](https://img.shields.io/badge/Java-black?style=flat-square&logo=java)
@@ -19,7 +19,6 @@
 </br>
 
 <h2 align="center">🌿 Front Teck Stack 🌿</h2>
-<div align="center">
 
 ![React](https://img.shields.io/badge/React-black?style=flat-square&logo=react)
 ![Javascript](https://img.shields.io/badge/Javascript-black?style=flat-square&logo=javascript)
@@ -51,7 +50,6 @@ Here are some ideas to get you started:
 <h2 align="center">🌿 Backjoon Online Judge 🌿</h2>
 </br>
 
-<div align="center">
   
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dlektkfkd)](https://solved.ac/dlektkfkd/)<img src="http://mazandi.herokuapp.com/api?handle=dlektkfkd&theme=dark"/>
 
