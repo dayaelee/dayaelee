@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10&height=200&text=horan's%20GITHUB&fontSize=50&animation=twinkling&fontAlign=68&fontAlignY=36)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1&height=200&text=horan's%20GITHUB&fontSize=50&animation=twinkling&fontAlign=68&fontAlignY=36)
 
 <h1 align="center">  <img alt="" title="Views" align="right" src="https://komarev.com/ghpvc/?username=dayaelee&label=views&style=flat&color=ff69b4"></h1>
 
