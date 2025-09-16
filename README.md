@@ -1,6 +1,35 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=백엔드%20개발자%20&fontSize=50)
 
+
+
 <h1 align="center">  <img alt="" title="Views" align="right" src="https://komarev.com/ghpvc/?username=dayaelee&label=views&style=flat&color=ff69b4"></h1>
+
+
+<h3 align="center">🪄 Back Teck Stack 🪄</h3>
+<div align="center">
+
+
+![Java](https://img.shields.io/badge/Java-black?style=flat-square&logo=java)
+![Spring](https://img.shields.io/badge/Spring-black?style=flat-square&logo=spring)
+![Node](https://img.shields.io/badge/Node-black?style=flat-square&logo=node.js)
+![Python](https://img.shields.io/badge/Python-black?style=flat-square&logo=python)
+
+</div>
+</br>
+</br>
+
+<h3 align="center">🪄 Front Teck Stack 🪄</h3>
+<div align="center">
+
+![React](https://img.shields.io/badge/React-black?style=flat-square&logo=react)
+![Javascript](https://img.shields.io/badge/Javascript-black?style=flat-square&logo=javascript)
+![HTML5](https://img.shields.io/badge/HTML5-black?style=flat-square&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-black?style=flat-square&logo=css3&logoColor=1572B6)
+
+</div>
+
+
+
 <a href="https://github.com/devxb/gitanimals">
 <img
   src="https://render.gitanimals.org/farms/dayaelee"
@@ -23,6 +52,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+
 <div align="center">
   
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dlektkfkd)](https://solved.ac/dlektkfkd/)<img src="http://mazandi.herokuapp.com/api?handle=dlektkfkd&theme=dark"/>
@@ -37,25 +69,3 @@ Here are some ideas to get you started:
 
 </div>
 
-
-<h3 align="center">🪄 Back Teck Stack 🪄</h3>
-<div align="center">
-
-
-![Java](https://img.shields.io/badge/Java-black?style=flat-square&logo=java)
-![Spring](https://img.shields.io/badge/Spring-black?style=flat-square&logo=spring)
-![Node](https://img.shields.io/badge/Node-black?style=flat-square&logo=node.js)
-![Python](https://img.shields.io/badge/Python-black?style=flat-square&logo=python)
-
-</div>
-
-
-<h3 align="center">🪄 Front Teck Stack 🪄</h3>
-<div align="center">
-
-![React](https://img.shields.io/badge/React-black?style=flat-square&logo=react)
-![Javascript](https://img.shields.io/badge/Javascript-black?style=flat-square&logo=javascript)
-![HTML5](https://img.shields.io/badge/HTML5-black?style=flat-square&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-black?style=flat-square&logo=css3&logoColor=1572B6)
-
-</div>
