@@ -17,6 +17,7 @@
 ![Python](https://img.shields.io/badge/Python-black?style=flat-square&logo=python)
 
 </div>
+
 </br>
 </br>
 
@@ -55,8 +56,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h3 align="center">🪄 Backjoon Online Judge 🪄</h3>
+</br>
+</br>
 
+<h3 align="center">🪄 Backjoon Online Judge 🪄</h3>
+</br>
 
 <div align="center">
   
@@ -64,7 +68,8 @@ Here are some ideas to get you started:
 
 </div>
 
-
+</br>
+</br>
 
 <div align="center">
   
