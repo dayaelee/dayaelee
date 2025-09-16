@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Backend%20Developer%20&fontSize=50)
+![header](https://capsule-render.vercel.app/api?type=waving&color=camo&height=400&section=header&text=Backend%20Developer%20&fontSize=50)
 
 
 
