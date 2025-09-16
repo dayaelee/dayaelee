@@ -1,12 +1,4 @@
-[header](https://capsule-render.vercel.app/api?type=${배경타입}&color=auto&height=${높이}&section=header&text=${텍스트}&fontSize=${글자크기}&animation=${텍스트 효과})
-
-// 내 옵션
-배경타입 : waving
-높이 : 200
-텍스트 : 백엔드 개발자 입니다🥳
-글자크기 : 50
-텍스트효과 : twinkling
-
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
 
 <h1 align="center"> 백엔드 개발자 <img alt="" title="Views" align="right" src="https://komarev.com/ghpvc/?username=dayaelee&label=views&style=flat&color=ff69b4"></h1>
 <a href="https://github.com/devxb/gitanimals">
