@@ -7,7 +7,7 @@
 </br>
 </br>
 
-<h3 align="center">🪄 Back Teck Stack 🪄</h3>
+<h2 align="center">🪄 Back Teck Stack 🪄</h2>
 <div align="center">
 
 
@@ -21,7 +21,7 @@
 </br>
 </br>
 
-<h3 align="center">🪄 Front Teck Stack 🪄</h3>
+<h2 align="center">🪄 Front Teck Stack 🪄</h2>
 <div align="center">
 
 ![React](https://img.shields.io/badge/React-black?style=flat-square&logo=react)
@@ -32,14 +32,6 @@
 </div>
 
 
-
-<a href="https://github.com/devxb/gitanimals">
-<img
-  src="https://render.gitanimals.org/farms/dayaelee"
-  width="1400"
-  height="200"
-/>
-</a>
 
 <!--
 **dayaelee/dayaelee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -59,7 +51,7 @@ Here are some ideas to get you started:
 </br>
 </br>
 
-<h3 align="center">🪄 Backjoon Online Judge 🪄</h3>
+<h2 align="center">🪄 Backjoon Online Judge 🪄</h2>
 </br>
 
 <div align="center">
@@ -71,6 +63,20 @@ Here are some ideas to get you started:
 </br>
 </br>
 
+<h2 align="center">🌿 Github Status 🌿</h2>
+</br>
+
+<a href="https://github.com/devxb/gitanimals">
+<img
+  src="https://render.gitanimals.org/farms/dayaelee"
+  width="1400"
+  height="200"
+/>
+</a>
+
+
+</br>
+</br>
 <div align="center">
   
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dayaelee&theme=dark&layout=compact&hide_progress=true)
