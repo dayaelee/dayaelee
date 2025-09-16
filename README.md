@@ -1,12 +1,11 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1&height=250&text=D.lee's%20GITHUB&fontSize=50&animation=twinkling&fontAlign=68&fontAlignY=36&desc=Backend%20%Junior%20Developer%20&descAlignY=51&descAlign=62)
 
-<h1 align="center">  <img alt="" title="Views" align="right" src="https://komarev.com/ghpvc/?username=dayaelee&label=views&style=flat&color=ff69b4"></h1>
+ <img alt="" title="Views" align="right" src="https://komarev.com/ghpvc/?username=dayaelee&label=views&style=flat&color=ff69b4"></h1>
 
 </br>
 </br>
 
 <h2 align="center">🌿 Back Teck Stack 🌿</h2>
-<div align="center">
 
 
 ![Java](https://img.shields.io/badge/Java-black?style=flat-square&logo=java)
