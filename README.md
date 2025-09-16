@@ -7,7 +7,7 @@
 </br>
 </br>
 
-<h2 align="center">🪄 Back Teck Stack 🪄</h2>
+<h2 align="center">🌿 Back Teck Stack 🌿</h2>
 <div align="center">
 
 
@@ -21,7 +21,7 @@
 </br>
 </br>
 
-<h2 align="center">🪄 Front Teck Stack 🪄</h2>
+<h2 align="center">🌿 Front Teck Stack 🌿</h2>
 <div align="center">
 
 ![React](https://img.shields.io/badge/React-black?style=flat-square&logo=react)
@@ -51,7 +51,7 @@ Here are some ideas to get you started:
 </br>
 </br>
 
-<h2 align="center">🪄 Backjoon Online Judge 🪄</h2>
+<h2 align="center">🌿 Backjoon Online Judge 🌿</h2>
 </br>
 
 <div align="center">
