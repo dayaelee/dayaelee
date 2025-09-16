@@ -37,6 +37,8 @@ Here are some ideas to get you started:
 
 </div>
 
+
+<h3 align="center">🪄 Back Teck Stack 🪄</h3>
 <div align="center">
 
 
@@ -44,10 +46,16 @@ Here are some ideas to get you started:
 ![Spring](https://img.shields.io/badge/Spring-black?style=flat-square&logo=spring)
 ![Node](https://img.shields.io/badge/Node-black?style=flat-square&logo=node.js)
 ![Python](https://img.shields.io/badge/Python-black?style=flat-square&logo=python)
+
+</div>
+
+
+<h3 align="center">🪄 Front Teck Stack 🪄</h3>
+<div align="center">
+
 ![React](https://img.shields.io/badge/React-black?style=flat-square&logo=react)
 ![Javascript](https://img.shields.io/badge/Javascript-black?style=flat-square&logo=javascript)
 ![HTML5](https://img.shields.io/badge/HTML5-black?style=flat-square&logo=html5)
 ![CSS3](https://img.shields.io/badge/CSS3-black?style=flat-square&logo=css3&logoColor=1572B6)
 
 </div>
-  
