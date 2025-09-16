@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=백엔드개발자%20render&fontSize=50)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=백엔드%20개발자%20&fontSize=50)
 
 <h1 align="center">  <img alt="" title="Views" align="right" src="https://komarev.com/ghpvc/?username=dayaelee&label=views&style=flat&color=ff69b4"></h1>
 <a href="https://github.com/devxb/gitanimals">
