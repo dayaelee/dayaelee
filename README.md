@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1&height=300&text=D.lee's%20GITHUB&fontSize=50&animation=twinkling&fontAlign=68&fontAlignY=36&desc=Backend%20%Junior%20Developer%20&descAlignY=51&descAlign=62)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1&height=200&text=D.lee's%20GITHUB&fontSize=50&animation=twinkling&fontAlign=68&fontAlignY=36&desc=Backend%20%Junior%20Developer%20&descAlignY=51&descAlign=62)
 
 <h1 align="center">  <img alt="" title="Views" align="right" src="https://komarev.com/ghpvc/?username=dayaelee&label=views&style=flat&color=ff69b4"></h1>
 
