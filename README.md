@@ -8,12 +8,12 @@
 <h2 align="center">🌿 Education 🌿</h2>
 </br>
 
-- Hanyang University at Seoul, MS(2022~2024)
+- __Hanyang University at Seoul, MS(2022~2024)__
 
   - Major: Department of Computor Science | Research field: BlockChain
   - LAB: Operating Systems & Distributed Computing Laboratory (OSDC Lab)
 <!--Paper : Exploring Context-Aware Mental Health Self-Tracking Using Multimodal Smart Speakers in Home Environments, Jieun Lim et el, CHI '24. Paper Link-->
-- Daegu Catholic Universitiy, BS(2017~2022)
+- __Daegu Catholic Universitiy, BS(2017~2022)__
 
   - Major: Department of Computer Science and Engineering
   - Research Intern at System and Software Lab (SnS Lab)
