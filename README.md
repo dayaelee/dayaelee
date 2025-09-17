@@ -23,7 +23,9 @@
 
 - Kakao Tech Bootcamp: Full Stack Program (2024.07.01~2024.12.27) </br>
 - Samsung SDS Algorithm Camp (2024.02.13~2024.02.23)
-
+- Teaching Assistant — Hyundai Motor Company, SW/Control New-Hire Training (6th & 7th cohorts)
+- MATCH-Up (Industry-Tailored Short Program) — Blockchain (6th cohort)
+- Academic Club Member — I-Keeper, Daegu Catholic University
 
 </br>
 
