@@ -6,7 +6,6 @@
 </br>
 
 <h2 align="left">🌿 Education 🌿</h2>
-</br>
 
 - __Hanyang University at Seoul, MS(2022~2024)__
 
