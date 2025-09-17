@@ -5,7 +5,7 @@
 </br>
 </br>
 
-<h2 align="center">🌿 Education 🌿</h2>
+<h2 align="left">🌿 Education 🌿</h2>
 </br>
 
 - __Hanyang University at Seoul, MS(2022~2024)__
@@ -21,7 +21,7 @@
 
 </br>
 
-<h2 align="center"> 🌿 Back Teck Stack 🌿</h2>
+<h2 align="left"> 🌿 Back Teck Stack 🌿</h2>
 
 
 ![Java](https://img.shields.io/badge/Java-black?style=flat-square&logo=java)
@@ -34,7 +34,7 @@
 </br>
 </br>
 
-<h2 align="center">🌿 Front Teck Stack 🌿</h2>
+<h2 align="left">🌿 Front Teck Stack 🌿</h2>
 
 ![React](https://img.shields.io/badge/React-black?style=flat-square&logo=react)
 ![Javascript](https://img.shields.io/badge/Javascript-black?style=flat-square&logo=javascript)
@@ -63,7 +63,7 @@ Here are some ideas to get you started:
 </br>
 </br>
 
-<h2 align="center">🌿 Backjoon Online Judge 🌿</h2>
+<h2 align="left">🌿 Backjoon Online Judge 🌿</h2>
 </br>
 
   
@@ -74,7 +74,7 @@ Here are some ideas to get you started:
 </br>
 </br>
 
-<h2 align="center">🌿 Github Status 🌿</h2>
+<h2 align="left">🌿 Github Status 🌿</h2>
 </br>
 
 <a href="https://github.com/devxb/gitanimals">
@@ -88,7 +88,7 @@ Here are some ideas to get you started:
 
 </br>
 </br>
-<div align="center">
+<div align="left">
   
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dayaelee&theme=dark&layout=compact&hide_progress=true)
 ![Dayae Lee's GitHub stats](https://github-readme-stats.vercel.app/api?username=dayaelee&show_icons=true&theme=panda)
