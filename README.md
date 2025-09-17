@@ -11,6 +11,7 @@
 
   - Major: Department of Computor Science | Research field: BlockChain
   - LAB: Operating Systems & Distributed Computing Laboratory (OSDC Lab)
+  - Paper : A Byzantine Fault Classification and Injection System for Distributed Consensus Algorithms — Dayae Lee. Master’s Thesis, Hanyang University, 2024.
 <!--Paper : Exploring Context-Aware Mental Health Self-Tracking Using Multimodal Smart Speakers in Home Environments, Jieun Lim et el, CHI '24. Paper Link-->
 - __Daegu Catholic Universitiy, BS(2017~2022)__
 
