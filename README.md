@@ -2,9 +2,6 @@
 
 <img alt="" title="Views" align="right" src="https://komarev.com/ghpvc/?username=dayaelee&label=views&style=flat&color=ff69b4"></h1>
 
-</br>
-</br>
-
 <h2 align="left">🌿 Education 🌿</h2>
 
 - __Hanyang University at Seoul, MS(2022~2024)__
