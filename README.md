@@ -8,7 +8,7 @@
 <h2 align="center">🌿 Education 🌿</h2>
 </br>
 
-- Hanyang University, MS(2022~2024)
+- Hanyang University at Seoul, MS(2022~2024)
 
   - Major: Department of Computor Science | Research field: BlockChain
   - LAB: Operating Systems & Distributed Computing Laboratory (OSDC Lab)
