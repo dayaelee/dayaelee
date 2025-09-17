@@ -38,6 +38,11 @@
 </br>
 
 
+<h2 align="left">🌿 Work Experience 🌿</h2>
+
+- Gyeongbuk Institute of Technology and Convergence Industry : Field Intern (GRIP 3), SW Research Team (2020.01~2020.02)
+
+
 <h2 align="left">🌿 Qualifications 🌿</h2>
 
 - SQL Developer (2024.09.20)
