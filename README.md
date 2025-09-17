@@ -19,8 +19,6 @@
   - Research Intern at System and Software Lab (SnS Lab)
 
 
-</br>
-
 
 </br>
 </br>
@@ -31,7 +29,6 @@
 - Kakao Tech Bootcamp: Full Stack Program (2024.07.01~2024.12.27) </br>
 - Samsung SDS Algorithm Camp (2024.02.13~2024.02.23)
 
-</br>
 
 
 </br>
@@ -43,7 +40,6 @@
 - Gyeongbuk Institute of Technology and Convergence Industry : Field Intern (GRIP 3), SW Research Team (2020.01~2020.02)
 
 
-</br>
 
 </br>
 </br>
@@ -54,6 +50,7 @@
 - SQL Developer (2024.09.20)
 - OPIc IM1 (2025.09.02)
 
+</br>
 </br>
 
 
@@ -124,6 +121,7 @@ Here are some ideas to get you started:
 
 </br>
 </br>
+
 <div align="left">
   
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dayaelee&theme=dark&layout=compact&hide_progress=true)
