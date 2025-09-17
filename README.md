@@ -16,8 +16,6 @@
   - Research Intern at System and Software Lab (SnS Lab)
 
 
-
-</br>
 </br>
 
 
@@ -27,8 +25,6 @@
 - Samsung SDS Algorithm Camp (2024.02.13~2024.02.23)
 
 
-
-</br>
 </br>
 
 
@@ -37,8 +33,6 @@
 - Gyeongbuk Institute of Technology and Convergence Industry : Field Intern (GRIP 3), SW Research Team (2020.01~2020.02)
 
 
-
-</br>
 </br>
 
 
@@ -47,7 +41,6 @@
 - SQL Developer (2024.09.20)
 - OPIc IM1 (2025.09.02)
 
-</br>
 </br>
 
 
@@ -61,7 +54,6 @@
 
 </div>
 
-</br>
 </br>
 
 <h2 align="left">🌿 Front Teck Stack 🌿</h2>
@@ -91,7 +83,6 @@ Here are some ideas to get you started:
 -->
 
 </br>
-</br>
 
 <h2 align="left">🌿 Backjoon Online Judge 🌿</h2>
 </br>
@@ -101,7 +92,6 @@ Here are some ideas to get you started:
 
 </div>
 
-</br>
 </br>
 
 <h2 align="left">🌿 Github Status 🌿</h2>
@@ -115,8 +105,6 @@ Here are some ideas to get you started:
 />
 </a>
 
-
-</br>
 </br>
 
 <div align="left">
