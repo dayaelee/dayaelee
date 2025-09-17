@@ -34,6 +34,18 @@
 </br>
 
 
+</br>
+</br>
+
+
+<h2 align="left">🌿 Qualifications 🌿</h2>
+
+- SQL Developer (2024.09.20)
+- OPIc IM1 (2025.09.02)
+
+</br>
+
+
 <h2 align="left"> 🌿 Back Teck Stack 🌿</h2>
 
 
